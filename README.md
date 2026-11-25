@@ -60,6 +60,17 @@ Currently a Flutter Developer at **Mobile Monks**. Previously a Flutter Develope
 
 ---
 
+## Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dishagangwar/Dishagangwar/output/github-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Dishagangwar/Dishagangwar/output/github-snake.svg" />
+</picture>
+</div>
+
+---
+
 ## Get in touch
 
 I'm open to internships and full-time roles. Reach me at [dg1319.disha@gmail.com](mailto:dg1319.disha@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/disha-gangwar-526806280).
