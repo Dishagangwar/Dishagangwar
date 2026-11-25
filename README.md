@@ -24,10 +24,24 @@ Currently a Flutter Developer at **Mobile Monks**. Previously a Flutter Develope
 
 ## Tech stack
 
-**Languages:** Dart · Kotlin · Java · Python · C · SQL
-**Mobile:** Flutter · Android SDK · MVVM · Clean Architecture · BLoC · Provider · Hilt
-**Backend & data:** Firebase · Supabase · Cloud Firestore · PostgreSQL · MongoDB · REST APIs
-**Tools:** Git · GitHub · Docker · Android Studio · VS Code · ML Kit · TensorFlow Lite
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dart,kotlin,java,python,c,postgres&perline=12" alt="Dart, Kotlin, Java, Python, C, SQL" /></td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin&perline=12" alt="Flutter, Android Studio" /><br/><sub>Android SDK · MVVM · Clean Architecture · BLoC · Provider · Hilt</sub></td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb&perline=12" alt="Firebase, Supabase, PostgreSQL, MongoDB" /><br/><sub>Cloud Firestore · REST APIs</sub></td>
+  </tr>
+  <tr>
+    <td><b>ML &amp; Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,git,github,docker,vscode&perline=12" alt="TensorFlow, Git, GitHub, Docker, VS Code" /><br/><sub>ML Kit · TensorFlow Lite · Gemini API</sub></td>
+  </tr>
+</table>
 
 ---
 
