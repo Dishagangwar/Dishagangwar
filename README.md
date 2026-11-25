@@ -11,14 +11,14 @@ Currently a Flutter Developer at **Mobile Monks**. Previously a Flutter Develope
 
 ## Featured projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Vidcollage**](https://github.com/Dishagangwar/Vidcollage) | Android app that finds each unique person in a video and builds a shareable collage with appearance counts, fully on-device. | Kotlin, ML Kit, TensorFlow Lite, FaceNet, MVVM |
-| [**Emostate**](https://github.com/Dishagangwar/Emotional_Intelligence_System) | Emotional check-ins with an on-device read of your state and a suggested practice, saved to a private history. | Flutter, Dart, Supabase, On-device ML |
-| [**Instant Mechanic**](https://github.com/Dishagangwar/Mechanic-Service-App) | Find nearby mechanics, compare services and book vehicle repairs. In testing on Google Play. | Kotlin, Android SDK, MVVM, Hilt, Coroutines, Supabase |
-| [**Medsagar**](https://github.com/Dishagangwar/MedSagar) | Healthcare consultation platform for patients, doctors and clinics, with appointments, wallet and payments. | Flutter, Dart, REST APIs, Firebase Auth, Google OAuth, Razorpay |
-| [**Namaste Tripathi**](https://github.com/Dishagangwar/namaste-tripathi) | Multi-service super app for restaurants, hotels, delivery and service providers, with Admin, Provider and Delivery dashboards. | Flutter, Dart |
-| [**Eco Track Pro**](https://github.com/Dishagangwar/ecotrack_pro) | Turns everyday habits into a live carbon-footprint score, with a Gemini chatbot and image scanner. | Flutter, Dart, Provider, Firebase, Cloud Firestore, Gemini API |
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **Vidcollage** | Android app that finds each unique person in a video and builds a shareable collage with appearance counts, fully on-device. | Kotlin, ML Kit, TensorFlow Lite, FaceNet, MVVM | [Code](https://github.com/Dishagangwar/Vidcollage) · [Demo](https://drive.google.com/file/d/1FUWWZXYdHFegy7MJa0l6AG_b75eWRJiF/view?usp=drivesdk) |
+| **Emostate** | Emotional check-ins with an on-device read of your state and a suggested practice, saved to a private history. | Flutter, Dart, Supabase, On-device ML | [Code](https://github.com/Dishagangwar/Emotional_Intelligence_System) · [Demo](https://drive.google.com/file/d/1TwMpew7F3bP5Ciq40kzfgFKGVV27oAcZ/view?usp=drivesdk) |
+| **Instant Mechanic** | Find nearby mechanics, compare services and book vehicle repairs. In testing on Google Play. | Kotlin, Android SDK, MVVM, Hilt, Coroutines, Supabase | [Code](https://github.com/Dishagangwar/Mechanic-Service-App) · [Demo](https://drive.google.com/file/d/1RIYtrOKnrel56mktIv-YEkscuZWx7pgw/view?usp=drivesdk) |
+| **Medsagar** | Healthcare consultation platform for patients, doctors and clinics, with appointments, wallet and payments. | Flutter, Dart, REST APIs, Firebase Auth, Google OAuth, Razorpay | [Code](https://github.com/Dishagangwar/MedSagar) · [Demo](https://drive.google.com/file/d/158Uzbjj1sFg5zatTfTzF_VlQcCfJ306-/view?usp=sharing) |
+| **Namaste Tripathi** | Multi-service super app for restaurants, hotels, delivery and service providers, with Admin, Provider and Delivery dashboards. | Flutter, Dart | [Code](https://github.com/Dishagangwar/namaste-tripathi) · [Demo](https://drive.google.com/file/d/1xvoPfMiDbAcCyXFPlXC4w6chXzVOjZIU/view?usp=share_link) |
+| **Eco Track Pro** | Turns everyday habits into a live carbon-footprint score, with a Gemini chatbot and image scanner. | Flutter, Dart, Provider, Firebase, Cloud Firestore, Gemini API | [Code](https://github.com/Dishagangwar/ecotrack_pro) · [Demo](https://drive.google.com/file/d/1vzUzThFd85SLKVuY5kL4Pp6a-ok2N18c/view?usp=drivesdk) |
 
 ---
 
