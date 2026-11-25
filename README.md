@@ -1,4 +1,12 @@
-# Hi, I'm Disha Gangwar 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Disha%20Gangwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20%C2%B7%20Mobile%20Engineer&descAlignY=58&descSize=18" alt="Disha Gangwar banner" />
+
+<a href="https://github.com/Dishagangwar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6C63FF&center=true&vCenter=true&width=520&lines=Building+cross-platform+apps+with+Flutter;Native+Android+with+Kotlin;On-device+ML+%26+clean+architecture;Open+to+internships+%26+full-time+roles" alt="Typing animation" /></a>
+
+</div>
+
+## Hi, I'm Disha 👋
 
 **Flutter Developer & Mobile Engineer** based in Ghaziabad, India.
 I build cross-platform mobile apps with Flutter and Dart, and native Android apps with Kotlin. I care about clean architecture, responsive UI, and apps that feel good to use.
@@ -55,3 +63,5 @@ Currently a Flutter Developer at **Mobile Monks**. Previously a Flutter Develope
 ## Get in touch
 
 I'm open to internships and full-time roles. Reach me at [dg1319.disha@gmail.com](mailto:dg1319.disha@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/disha-gangwar-526806280).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="" />
